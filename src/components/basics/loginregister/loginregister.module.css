@@ -1,0 +1,10 @@
+.content {
+    inset: 140px;
+    position: fixed;
+    display: flex;
+    background-color: lightblue;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
